@@ -2,4 +2,6 @@ Anotações sobre o primeiro desafio da DIO/githib
 
 utilize "git add <arquivo>..." para incluir o que será submetido
 
+git commit -m "texto que deseja escrever" - comando para fazer o commit
 
+git push origin main - comando para fazer upload das modificações
